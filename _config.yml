@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "The Feedback"
+email: ian@thethingthatiwant.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/tttiw-typeform"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Ian
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -20,26 +20,28 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+# ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  morna:
+    name: 'Morna Simpson'
+    display_name: Morna
+    avatar: 'assets/images/morna.jpg'
+    email: morna.simpson@gmail.com
+    web: https://facebook.com/girlgeekscotland
+    twitter: https://twitter.com/girlgeeks
+    linkedin: https://linkedin.com/in/mornasimpson
+    description: "Truth Seeker, open to contract roles in User Research, Service Design & Business Analysis, focused on Discovery research, with a special interest in digital behaviour change technology."
   john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    name: 'Ifraz Mughal'
+    display_name: Ifraz
+    avatar: 'assets/images/ifraz.jpg'
+    email:  ifrazm@googlemail.com
+    web: https://ifrazmughal.com
+    twitter: https://twitter.com/ifraz
+    linkedin: https://linkedin.com/in/ifraz
+    description: "Senior UX researcher with 15+ years of experience in User Centred Design, I thrive on embedding research into the cadence of digital delivery projects."
 
 # Social
 social:
