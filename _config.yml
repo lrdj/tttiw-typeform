@@ -3,7 +3,7 @@ email: ian@thethingthatiwant.com
 timezone: UTC
 baseurl: "/tttiw-typeform"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo-lockup.png'
 favicon: 'assets/images/favicon.ico'
 author: Dug
 paginate: 30
