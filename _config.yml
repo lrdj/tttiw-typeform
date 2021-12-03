@@ -5,9 +5,9 @@ baseurl: "/tttiw-typeform"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Ian
+author: Dug
 paginate: 30
-disqus: 'demowebsite'
+# disqus: 'demowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,6 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
+
 # ganalytics: UA-113961478-1
 
 # Authors
@@ -45,9 +46,10 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  twitter: https://twitter.com/dug
+
+# instagram: https://www.instagram.com/bootstrapstarter/
+# facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
 
 # Plugins
 plugins: 
