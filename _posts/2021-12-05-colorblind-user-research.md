@@ -9,7 +9,7 @@ description: "Morna provides leadership consulting on all issues surrounding des
 tags: [ healthcare, design, research ]
 ---
 
-(How colorblind user research produces racist design)
+(How colorblind user research produces racist design) 
 
 Working as a User Researcher in healthcare design its my job to find the balance between telling a story about the user that is general enough to serve as a design tool, but also personal enough that we don't lose the characteristics of cultural adaptation. to a given situation and context.
 
