@@ -4,7 +4,7 @@ title:  "Dear Designers, We Need to Talk About Race: How Colorblind User Researc
 categories: [ leadership, research ]
 image: assets/images/uxrconf21.jpg
 description: "Morna provides leadership consulting on all issues surrounding design and research operations"
-featured: true
+# featured: true
 tags: [ healthcare, design, research ]
 ---
 
