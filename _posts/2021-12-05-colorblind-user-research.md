@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dear Designers, We Need to Talk About Race: How Colorblind User Research Produces Racist Design"
+title:  "Dear Designers, We Need to Talk About Race"
 categories: [ leadership, research ]
 image: assets/images/uxrconf21.jpg
 imagelink: https://media.joinlearners.com/converted/1/e9de3514dfbb32cde1e6a9752097ab0e.mp4
@@ -14,6 +14,7 @@ tags: [ healthcare, design, research ]
 Your browser does not support the video tag.
 </video>
 
+## How Colorblind User Research Produces Racist Design
 
 Working as a User Researcher in healthcare design its my job to find the balance between telling a story about the user that is general enough to serve as a design tool, but also personal enough that we don't lose the characteristics of cultural adaptation. to a given situation and context.
 
