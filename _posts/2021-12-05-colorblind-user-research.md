@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dear Designers, We Need to Talk About Race..."
+author: morna
 categories: [ leadership, research ]
 image: assets/images/uxrconf21.jpg
 imagelink: https://media.joinlearners.com/converted/1/e9de3514dfbb32cde1e6a9752097ab0e.mp4
