@@ -1,57 +1,14 @@
----
-title: How can we help?
-layout: default
-background: '/img/bg-index.jpg'
----
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rien à voir, circulez...</title>
+</head>
+<body>
 
-<!-- Home Intro
-================================================== -->
-{% if page.url == "/" %} 
-<div class="rounded mb-5 hero" style="padding:0;">
-  <div class="row align-items-center justify-content-between">
-    <div class="col-md-12">
+  <h1>Rien.</h1>
 
-<h1>Foo...</h1>
+</body>
+</html>
 
-    </div>
-  </div>
-</div>
-{% endif %}
-
-<!-- Featured
-================================================== -->
-<section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
-          </div>
-      {% endif %}
-  {% endfor %}
-  </div>
-</section>
-
-<!-- Posts List with Sidebar (except featured)
-================================================== -->
-<section class="row">
-  <div class="col-sm-8">
-    <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
-        {% include postbox.html %}
-      </div>
-      {% endunless %}
-      {% endfor %}
-    </div>
-    <!-- Pagination -->
-    <div class="bottompagination">
-      <span class="navigation" role="navigation">
-          {% include pagination.html %}
-      </span>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
-  </div>
-</section>
